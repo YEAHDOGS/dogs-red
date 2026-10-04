@@ -1,0 +1,1 @@
+import{i as e,r as t}from"./vendor-iGCAUQTu.js";function n(t){return new Promise((n,r)=>{let i={};for(let e of t)i[e.name]=e.data;e(i,(e,t)=>{e?r(e):n(new Blob([t],{type:`application/zip`}))})})}function r(e){return new Promise((n,r)=>{t(e,(e,t)=>{e?r(e):n(t)})})}export{r as n,n as t};
