@@ -1,0 +1,68 @@
+[
+  {
+    "id": "fight-the-ceo",
+    "title": "FIGHT THE CEO",
+    "price": "$299,999",
+    "sale": {
+      "price": "$199,999",
+      "amountOff": "$100,000 OFF",
+      "label": "SALE DAY ONLY \u2014 ALL GOODS MUST GO, INCLUDING ME",
+      "start": "2026-07-31T00:00:00-05:00",
+      "end": "2026-08-01T00:00:00-05:00",
+      "campaignId": "save-texas-hemp",
+      "campaignLabel": "\ud83c\udf3f WHY $100K OFF? IT'S SALE DAY IN TEXAS \u2014 SEE THE CAMPAIGN"
+    },
+    "description": "For this price, I will buy us world class accomodations at a tropical resort location, motorcycle helmets and hockey pads, 2 sets of wooden taekwondo weapons (Jahng Bong, Ssang Jeol Bong, Bahng Mahng Ee), tesla rental cars, and whoop your ass in a series of duels. Locations will include unlimited food and booze passes, beaches, nightclubs, jetski rentals, skydiving, concert tickets probably ye, 2 bottles of macallan 15, a custom built guitar, tickets to EDC, and more (or less).",
+    "sizes": [],
+    "inStock": true,
+    "image": "https://data.wearedogs.net/img/people/brando/brando1.jpg",
+    "images": [
+      "https://data.wearedogs.net/vid/fundraiser/sale.mp4",
+      "https://data.wearedogs.net/img/people/brando/brando1.jpg",
+      "https://data.wearedogs.net/img/people/brando/brando3.jpg",
+      "https://data.wearedogs.net/img/people/brando/brando4.jpg",
+      "https://data.wearedogs.net/img/people/brando/brando5.jpg"
+    ],
+    "checkoutUrl": ""
+  },
+  {
+    "id": "1",
+    "title": "WOOF CLASSIC T-SHIRT",
+    "price": "$29.99",
+    "description": "High-quality, ultra-soft combed cotton tee featuring the iconic WEAREDOGS minimalist logo. Pre-shrunk, athletic fit, designed for everyday comfort.",
+    "sizes": [
+      "6XS",
+      "5XS",
+      "4XS",
+      "3XS",
+      "2XS",
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "6XL"
+    ],
+    "inStock": false,
+    "image": "/images/classic-tshirt.png",
+    "checkoutUrl": ""
+  },
+  {
+    "id": "2",
+    "title": "LIMITED EDITION GOLDEN SOCKS",
+    "price": "$14.99",
+    "description": "Premium athletic socks with woven golden retriever designs. Fully cushioned footbed and arch support.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "inStock": false,
+    "image": "/images/golden-socks.png",
+    "checkoutUrl": ""
+  }
+]

@@ -1,0 +1,364 @@
+[
+  {
+    "id": "skeleton",
+    "name": "Dog Skeleton",
+    "type": "gltf",
+    "path": "/models/dog_skeleton.gltf",
+    "attribution": null
+  },
+  {
+    "id": "scooby",
+    "name": "Scooby-Doo",
+    "type": "glb",
+    "path": "scooby.glb",
+    "scaleMultiplier": 1.3,
+    "centerOffset": [
+      0,
+      0.6,
+      0
+    ],
+    "attribution": {
+      "creator": "Guilherme Navarro (@guinavarro.al)",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/scooby-doo-scooby-doo-c94cd460bbe342849973306484cd9f2c"
+    }
+  },
+  {
+    "id": "snoopy",
+    "name": "Snoopy",
+    "type": "glb",
+    "path": "snoopy.glb",
+    "scaleMultiplier": 3,
+    "centerOffset": [
+      0,
+      0.2,
+      0
+    ],
+    "attribution": {
+      "creator": "Daz (@Darren.Hogan)",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/snoopy-df94fc680c404ffeb0a7b864958600a5"
+    }
+  },
+  {
+    "id": "gromit",
+    "name": "Gromit",
+    "type": "glb",
+    "path": "gromit.glb",
+    "scaleMultiplier": 1.1,
+    "centerOffset": [
+      0,
+      0.16,
+      0
+    ],
+    "attribution": {
+      "creator": "@patrick.ambrose28403",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/gromit-1341f5b2183a4be4a0ca5a9dfc436668"
+    }
+  },
+  {
+    "id": "paw-patrol",
+    "name": "Chase (PAW Patrol)",
+    "type": "glb",
+    "path": "paw-patrol.glb",
+    "attribution": {
+      "creator": "Guilherme Navarro (@guinavarro.al)",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/chase-paw-patrol-no-rig-b2f3813cee134f83b4a2772c6e227390"
+    }
+  },
+  {
+    "id": "courage",
+    "name": "Courage the Cowardly Dog",
+    "type": "glb",
+    "path": "courage.glb",
+    "attribution": {
+      "creator": "@penguincoyosaurio",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/courage-the-cowardly-dog-simple-design-low-poly-25095d3755f2411cbb2b19acfeb1065f"
+    }
+  },
+  {
+    "id": "dogs-life",
+    "name": "Jake (Dog's Life)",
+    "type": "glb",
+    "path": "dogs-life.glb",
+    "scaleMultiplier": 0.03,
+    "attribution": {
+      "creator": "@DayTimeShows",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/jake-38eaed66f7e54eac9dc900822dd4ccde"
+    }
+  },
+  {
+    "id": "jake-adventure-time",
+    "name": "Jake (Adventure Time)",
+    "type": "glb",
+    "path": "jake-adventure-time.glb",
+    "attribution": {
+      "creator": "Lapshin Sergey (@serg111)",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/9f149100c2884716a9f44634ae0b929d"
+    }
+  },
+  {
+    "id": "big-dogs",
+    "name": "Doberman",
+    "type": "glb",
+    "path": "doberman.glb",
+    "attribution": {
+      "creator": "Paleo Modelist (@victory_)",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/dog-2f9986e6ba4345fdabf71ed43c1086dd"
+    }
+  },
+  {
+    "id": "slink",
+    "name": "Slink (Toy Story)",
+    "type": "glb",
+    "path": "slink.glb",
+    "scaleMultiplier": 1.3,
+    "attribution": {
+      "creator": "@23200",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/wii-toy-story-3-slinky-dog-f9b7a22aa2e44f01ab932e9548ab98f4"
+    }
+  },
+  {
+    "id": "pluto",
+    "name": "Pluto",
+    "type": "glb",
+    "path": "pluto.glb",
+    "attribution": {
+      "creator": "@anderlenolan",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/pluto-142bbd6f619547059f26943c9a855ccd"
+    }
+  },
+  {
+    "id": "goofy",
+    "name": "Goofy",
+    "type": "glb",
+    "path": "goofy.glb",
+    "scaleMultiplier": 0.21,
+    "centerOffset": [
+      0,
+      1.6,
+      0
+    ],
+    "attribution": {
+      "creator": "@GFT1",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/goofy-laugh-a1f12e2b092b4ffbbd2ed9af5cae530a"
+    }
+  },
+  {
+    "id": "lady-and-the-tramp",
+    "name": "Lady & Tramp",
+    "type": "glb",
+    "path": "lady-tramp.glb",
+    "attribution": {
+      "creator": "Stewart Budd (@StewartB)",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/lady-tramp-7d4098f2a41244b78b558eca292c6b27"
+    }
+  },
+  {
+    "id": "hot-dog",
+    "name": "Hot Dog",
+    "type": "glb",
+    "path": "hot-dog.glb",
+    "attribution": {
+      "creator": "Vlad's_Studios (@alexvladimircm)",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/hot-dog-3df5e2b8077b47b6b42d9dec1e4a3a03"
+    }
+  },
+  {
+    "id": "harvest-moon",
+    "name": "Harvest Moon Dog",
+    "type": "glb",
+    "path": "harvest-moon.glb",
+    "scaleMultiplier": 0.55,
+    "centerOffset": [
+      0,
+      -0.4,
+      0
+    ],
+    "attribution": {
+      "creator": "Smoon (@Smoon.Vu)",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/dog-harvest-moon-7a034e47c5eb4afe95e08c2e7d74f403"
+    }
+  },
+  {
+    "id": "low-poly",
+    "name": "Low Poly Dog Pack",
+    "type": "glb",
+    "path": "low-poly-dogs.glb",
+    "scaleMultiplier": 2.6,
+    "centerOffset": [
+      0,
+      -0.2,
+      0
+    ],
+    "attribution": {
+      "creator": "@compostthesecond",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/low-poly-dog-pack-b27eaa571da14c3b93bf664fe7d950c8"
+    }
+  },
+  {
+    "id": "nintendog",
+    "name": "Nintendog (Smash Bros.)",
+    "type": "glb",
+    "path": "nintendog1.glb",
+    "scaleMultiplier": 0.15,
+    "centerOffset": [
+      0,
+      5.4,
+      0
+    ],
+    "attribution": {
+      "creator": "SPONg (@thegageinator)",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/nintendog-2-smash-bros-ultimate-f93f71de491a4bfc8cc815dd96797b69"
+    }
+  },
+  {
+    "id": "puppy",
+    "name": "Puppy",
+    "type": "glb",
+    "path": "dog-puppy-v1.glb",
+    "centerOffset": [
+      0,
+      1.2,
+      0
+    ],
+    "attribution": {
+      "creator": "@kenchoo",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/dog-puppy-72331763040e4314b154f84348fe0957"
+    }
+  },
+  {
+    "id": "dog2",
+    "name": "Dog 2",
+    "type": "glb",
+    "path": "dog2.glb",
+    "scaleMultiplier": 0.9,
+    "centerOffset": [
+      0,
+      0.4,
+      0
+    ],
+    "attribution": {
+      "creator": "@kenchoo",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/labrador-dog-1f56cfbab07e4fe49b5d9e521c82073a"
+    }
+  },
+  {
+    "id": "brian",
+    "name": "Brian (Family Guy)",
+    "type": "glb",
+    "path": "brian.glb",
+    "scaleMultiplier": 2,
+    "centerOffset": [
+      0,
+      0.005,
+      0
+    ],
+    "attribution": {
+      "creator": "Luxor (@ricardoatorres2016)",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/brian-griffin-dancing-hip-hop-9ae8a52b44d0495bbe46e3c6125b8103"
+    }
+  },
+  {
+    "id": "dug",
+    "name": "Dug (Up)",
+    "type": "glb",
+    "path": "dug.glb",
+    "scaleMultiplier": 1.5,
+    "centerOffset": [
+      0,
+      1.2,
+      0
+    ],
+    "attribution": {
+      "creator": "@patrickambrose584",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/dug-doing-the-toothless-dance-479baca05644457faac67dac4bc0afa1"
+    }
+  },
+  {
+    "id": "chop",
+    "name": "Chop (GTA V)",
+    "type": "glb",
+    "path": "chop.glb",
+    "scaleMultiplier": 2,
+    "attribution": {
+      "creator": "@Dudueyidk",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/chop-gta-75763caacbec4ae29f84e033d441fdd3"
+    }
+  },
+  {
+    "id": "parappa",
+    "name": "PaRappa the Rapper",
+    "type": "glb",
+    "path": "parappa.glb",
+    "attribution": {
+      "creator": "@THEREALBIGGRAFIS",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/parappa-the-rapper-f604382ccde7448aaaffd06f4cc16b71"
+    }
+  },
+  {
+    "id": "dogman",
+    "name": "Dog Man",
+    "type": "glb",
+    "path": "dogman.glb",
+    "scaleMultiplier": 0.02,
+    "centerOffset": [
+      0,
+      0.55,
+      0
+    ],
+    "attribution": {
+      "creator": "Dream Dixie Works",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/dog-man-doing-the-toothless-dance-3df6658042e74678bec197153d3a0156"
+    }
+  },
+  {
+    "id": "kk",
+    "name": "K.K. Slider (Animal Crossing)",
+    "type": "glb",
+    "path": "kk.glb",
+    "scaleMultiplier": 3,
+    "centerOffset": [
+      0,
+      0.5,
+      0
+    ],
+    "attribution": {
+      "creator": "FoxoutdaBox",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/kk-playing-guitar-animal-crossing-f0f48f4e59c648bcb3c778781f2fa4d3"
+    }
+    },
+  {
+    "id": "goddard",
+    "name": "Goddard (Jimmy Neutron)",
+    "type": "glb",
+    "path": "goddard.glb",
+    "attribution": {
+      "creator": "Pavel (@pavelj)",
+      "license": "CC Attribution",
+      "link": "https://sketchfab.com/3d-models/goddard-f3ff93044bb54e098513929e1b425630"
+    }
+  }
+]
